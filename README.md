@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
-![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson_Mendes&show_icons=true&theme=dracula)
+![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson-Mendes&show_icons=true&theme=dracula)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Mendes)]
 (https://github.com/anuraghazra/github-readme-stats)
