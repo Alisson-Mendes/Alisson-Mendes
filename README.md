@@ -5,7 +5,8 @@
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson_Mendes&show_icons=true&theme=dracula)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson_Mendes)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Mendes)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias do meu dia a dia 🖥️
 
