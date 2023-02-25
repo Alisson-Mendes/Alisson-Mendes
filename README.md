@@ -6,7 +6,7 @@
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson-Mendes&show_icons=true&theme=dracula)
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Mendes)]
-(https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias do meu dia a dia 🖥️
 
@@ -22,7 +22,7 @@
   
 Criar descrição!<br>
 Criar descrição <b>JAVASCRIPT</b>, <b>NODE.JS</b> e <b>REACT</b>. Criar descrição. Criar descrição. Criar descrição <b>MYSQL</b>
-e meu <b>S.O</b> Criar descriçãoé <b>LINUX</b>.
+e meu <b>S.O</b>.
 
 ### Contato ✉️ 
 
