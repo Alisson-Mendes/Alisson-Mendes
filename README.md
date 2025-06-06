@@ -1,12 +1,24 @@
-### Olá! Me chamo Alisson Mendes 🖐️
+<div align="center">
+  <a href="https://github.com/Alisson-Mendes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alisson-Mendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Mendes&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-mendes-profile) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson.mendes.dev/) ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson-Mendes&show_icons=true&theme=dracula)
+### Olá, Sou o Alisson Mendes! 👋
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Mendes&layout=compact&theme=dracula)]
+Atualmente, dedico-me ao aprimoramento contínuo em **desenvolvimento web** e **automação**, sempre em busca de projetos desafiadores que me permitam aprender e crescer. Acredito que a tecnologia tem o poder de simplificar processos e abrir novas possibilidades, e é isso que me motiva todos os dias!
 
 ---
 
-### Tecnologias do meu dia a dia 🖥️
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-mendes-profile) 
+
+---
+### Minhas Ferramentas e Tecnologias 🚀
+
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho no dia a dia e que estou sempre buscando aprimorar:
 
 <div align="left">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,15 +26,18 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-
-<br>
-
-Desenvolvedor apaixonado por **JavaScript**, **Node.js** e **Python**. Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento web** e **automação**, buscando sempre soluções eficientes e inovadoras. Também tenho experiência com bancos de dados **MySQL** e sou usuário de **Linux**.
 
 ---
 
-### Contato ✉️
+### Onde me encontrar:
 
-- [alissoncarlosmsj@gmail.com](mailto:alissoncarlosmsj@gmail.com)
+✉️ alissoncarlosmsj@gmail.com
+
+---
+
+<div align="center">
+  Feito com ❤️ por Alisson Mendes
+</div>
