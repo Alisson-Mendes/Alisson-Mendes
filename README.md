@@ -36,8 +36,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho no dia a
 
 ✉️ alissoncarlosmsj@gmail.com
 
----
 
-<div align="center">
-  Feito com ❤️ por Alisson Mendes
-</div>
